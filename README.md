@@ -84,7 +84,7 @@ For best performance, I encourage you to set a relative large value (>200) for C
 
 -------------------------
 
-**Additional Step **: Update caffe model with new json model
+**Additional Step**: Update caffe model with new json model
 
 you can update model by yourself using init_caffemodel.py.
 ```sh
