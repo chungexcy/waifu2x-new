@@ -93,5 +93,5 @@ $ python init_caffemodel.py models/noise3_scale2.0x_model.json models/noise3_sca
 
 ### Part IV : Thanks
 
-Thanks for [waifu2x](https://github.com/nagadomi/waifu2x/tree/upconv) providing the cnn model. Thanks for [caffe](https://github.com/BVLC/caffe) providing the running enviroment.
+Thanks for [waifu2x](https://github.com/nagadomi/waifu2x/tree/upconv) providing the cnn model. Thanks for [caffe](https://github.com/BVLC/caffe) providing the running environment.
 
